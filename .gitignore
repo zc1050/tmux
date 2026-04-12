@@ -1,6 +1,3 @@
-# TPM plugins (installed via git clone)
-plugins/
-
 # OS
 .DS_Store
 Thumbs.db
